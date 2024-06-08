@@ -1,6 +1,6 @@
 # Proteus_Electronic_Circuits_Simulations
 
-This repository contains the simulation files for the guidebook "Basic Electronic Circuits by Proteus Simulating Software" by Mohammed Mareai. The book serves as an introductory resource for those new to electronics, providing fundamental knowledge of various electronic components and circuits through practical simulation examples using the Proteus Design Suite.
+This repository contains the simulation files for the guidebook "Basic Electronic Circuits by Proteus Simulating Software" by Mohammed Mareai. The book is an introductory resource for those new to electronics, providing fundamental knowledge of various electronic components and circuits through practical simulation examples using the Proteus Design Suite.
 
 ## About the Book
 
@@ -46,4 +46,4 @@ This repository includes the following simulation files:
 
 ## Access the Book
 
-The complete guidebook is available for free on [ResearchGate](https://www.researchgate.net/publication/381260213_Basic_Electronic_Circuits_by_Proteus_Simulating_Software).
+The complete guidebook is available for free on [ResearchGate](https://www.researchgate.net/publication/381260714_Basic_Electronic_Circuits_by_Proteus_Simulating_Software).
